@@ -1,5 +1,5 @@
 {
-  "build_hash": "a2c6f31123a3cc8385d45bf46c5dde82",
+  "build_hash": "836adfb923f03b4d62490402087fbae1",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -691,6 +691,10 @@
     {
       "code": "0xf26c",
       "name": "briefcase"
+    },
+    {
+      "code": "0xf138",
+      "name": "bubble-people"
     },
     {
       "code": "0xf2be",
